@@ -1,2 +1,2 @@
 # InstagramFlexBoxProject
-This is a simmple project to practice using flexbox and increment CSS simulating the Instagram page
+This is a simple project to practice using flexbox and increment CSS simulating the Instagram page
